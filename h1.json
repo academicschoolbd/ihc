@@ -1,0 +1,22 @@
+{
+  "title": "Honours 1st Year Books",
+  "books": [
+    {
+      "subject": "Independent Bangladesh",
+      "writer": "Dr. Mofizur Rahman",
+      "rating": 5
+    },
+    {
+      "subject": "History of Islam",
+      "writer": "Dr. Ataur Rahman",
+      "rating": 3
+    }
+  ],
+  "courses": [
+    {
+      "code": "211501",
+      "title": "History of Independent Bangladesh",
+      "rating": 5
+    }
+  ]
+}
