@@ -1,17 +1,26 @@
 {
-  "title": "Honours 1st Year Books",
+  "title": "অনার্স ১ম বর্ষ (Honours 1st Year)",
+  
   "books": [
     {
-      "subject": "Independent Bangladesh",
-      "writer": "Dr. Mofizur Rahman",
+      "subject": "স্বাধীন বাংলাদেশের অভ্যুদয়ের ইতিহাস",
+      "writer": "ড. মো: মফিজুর রহমান",
+      "publisher": "লতিফ বুকস",
       "rating": 5,
-      "pdfUrl": "https://firebasestorage.googleapis.com/v0/b/YOUR-APP.appspot.com/o/book1.pdf?alt=media"
+      "pdfUrl": "https://example.com/book1.pdf"
+    }
+  ],
+
+  "courses": [
+    {
+      "code": "211501",
+      "title": "History of the Emergence of Independent Bangladesh",
+      "rating": 5
     },
     {
-      "subject": "History of Islam",
-      "writer": "Dr. Ataur Rahman",
-      "rating": 3,
-      "pdfUrl": ""
+      "code": "211601",
+      "title": "History of Islam (571-750)",
+      "rating": 4
     }
   ]
 }
